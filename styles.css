@@ -1,0 +1,40 @@
+p {
+    color: #D9B180
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    color: #333;
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #3E3E42;
+}
+
+h1 {
+    color: #C17E2C;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
+
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #9f723a;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #d19b5a;
+  color: white;
+}
